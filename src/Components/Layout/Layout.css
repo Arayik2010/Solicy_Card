@@ -1,0 +1,6 @@
+.layout {
+  max-width: 1300px;
+  width: 1300px;
+  border-right: 1px solid black;
+  flex: 1 0 auto;
+}
